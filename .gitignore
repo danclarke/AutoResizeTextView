@@ -1,0 +1,9 @@
+bin
+obj
+*.userprefs
+*.g.cs
+*.exe
+*.mdb
+*.dll
+*.apk
+src/generated_sources
